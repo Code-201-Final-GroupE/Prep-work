@@ -50,7 +50,7 @@ Casey's planned role: Laying out the main CSS for most pages, and setting up the
 
 Chris' planned role: Presentation, project management, "navigator" role for JS/CSS, writing assistance.
 
-Isaiah's planned role:
+Isaiah's planned role: Secondary to CSS styling and color scheme and Javascript logic
 
 ## Git Process
 
